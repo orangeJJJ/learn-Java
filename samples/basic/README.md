@@ -1,3 +1,3 @@
 1.  HelloWorld.java   
-2.  TestDemo1.java   for\  while\  do while
-3.  TestDemo2.java   switch case
+2.  TestDemo1.java  ->  for\  while\  do while
+3.  TestDemo2.java  ->  switch case
