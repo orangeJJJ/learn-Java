@@ -1,1 +1,2 @@
-# Learn Java Practice Code
+# Learn Java
+Learn Java practice code
