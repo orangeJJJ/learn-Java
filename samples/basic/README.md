@@ -7,3 +7,5 @@
 4.  TestDemo2.java  ->  switch case
 
 5.  TestDemo3.java  ->  for ->  5层金字塔
+
+6.  TestDemo3_1.java  ->  Person类 任意控制金字塔层数
